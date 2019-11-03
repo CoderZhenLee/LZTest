@@ -22,7 +22,7 @@ pod 'LZTest'
 
 ## Author
 
-CoderZhenLee, lizhen@igengmei.com
+CoderZhenLee, zhenlee@126.com
 
 ## License
 
