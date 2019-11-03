@@ -1,0 +1,6 @@
+framework module Pods_LZTest_Tests {
+  umbrella header "Pods-LZTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

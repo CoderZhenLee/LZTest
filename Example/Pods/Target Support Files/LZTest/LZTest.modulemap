@@ -1,0 +1,6 @@
+framework module LZTest {
+  umbrella header "LZTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
